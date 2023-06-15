@@ -1,0 +1,6 @@
+Supplier ID,Cost,Quality,Delivery time,Reliability,Flexibility,Capacity,Innovation,Reputation,Financial stability,Environmental impact,Social responsibility,Safety record,Technical expertise,Customer service,Lead time,Responsiveness,Contract terms,Diversity,Sustainability,Scalability
+Supplier 1,0.671,0.554,0.455,0.366,0.952,0.756,0.239,Average,0.777,0.709,0.318,0.143,0.679,0.502,0.15,0.4,0.039,0.277,0.829,0.077
+Supplier 2,0.674,0.393,0.688,0.507,0.693,0.469,0.338,Bad,0.619,0.388,0.823,0.204,0.118,0.757,0.256,0.488,0.007,0.977,0.835,0.566
+Supplier 3,0.788,0.572,0.845,0.148,0.426,0.879,0.364,Good,0.841,0.643,0.312,0.211,0.129,0.315,0.497,0.316,0.309,0.38,0.309,0.487
+Supplier 4,0.848,0.368,0.481,0.773,0.172,0.206,0.154,Average,0.763,0.744,0.984,0.919,0.5,0.45,0.546,0.452,0.108,0.317,0.005,0.737
+Supplier 5,0.26,0.795,0.957,0.879,0.061,0.778,0.9,Bad,0.863,0.902,0.316,0.728,0.447,0.003,0.826,0.435,0.464,0.803,0.882,0.548
